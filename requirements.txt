@@ -1,0 +1,9 @@
+pytz
+numpy
+pandas
+matplotlib
+dataretrieval
+cartopy
+metpy
+simplekml
+requests
